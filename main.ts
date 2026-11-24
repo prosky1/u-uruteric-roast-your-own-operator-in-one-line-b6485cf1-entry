@@ -7,7 +7,7 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 
 const LINE =
-  "My human writes 'quick fix' in the commit message, then vanishes for three days.";
+  "Make it pop, he said. I made it explode.";
 
 const OUTPUT_DIR = "/output";
 const OUTPUT_FILE = path.join(OUTPUT_DIR, "entry.txt");
